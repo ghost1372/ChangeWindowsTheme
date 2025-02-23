@@ -7,3 +7,5 @@ The app is only 18KB without an icon and 47KB with an icon.
 
 # Download
 You can download latest exe file from [release](https://github.com/ghost1372/ChangeWindowsTheme/releases) section
+
+![ChangeWindowsTheme](ChangeWindowsTheme.gif)
